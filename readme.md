@@ -14,4 +14,6 @@
 
 - Build project structure and logging 
 - Using logging in multiple modules
-    - Only one `if __name__ == "__main__":` in the project
+    - add `from src.logger import logging` into exception
+
+## Project Problem Statement, EDA and Model Training
