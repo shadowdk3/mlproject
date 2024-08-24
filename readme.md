@@ -1,5 +1,7 @@
 # End to End Machine Learning Project
 
+
+
 ## Github and Code Setup
 
 1. Set up the github repository
@@ -21,3 +23,6 @@
 - handle the categorical values
 - handle missing values
 
+## reference 
+
+https://www.youtube.com/watch?v=oMZA8v4JECY&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=8
