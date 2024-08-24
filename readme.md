@@ -16,3 +16,8 @@
 - Using logging in multiple modules
     - add `from src.logger import logging` into exception
 
+## Transformation Implementation Using Pipelines
+
+- handle the categorical values
+- handle missing values
+
