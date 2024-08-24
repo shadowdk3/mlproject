@@ -16,4 +16,3 @@
 - Using logging in multiple modules
     - add `from src.logger import logging` into exception
 
-## Project Problem Statement, EDA and Model Training
